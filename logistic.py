@@ -5,6 +5,10 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import datetime
 
+'''
+Note: The dataset used for this algorithm is completely a mock data,which has been prepared manually by myself.
+'''
+
 #IMPORT DATA
 TRANSACTION_DATASET = pd.read_csv("") 
 #ANALYZE DATA
