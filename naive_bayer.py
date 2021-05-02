@@ -6,6 +6,11 @@ from sklearn.model_selection import train_test_split
 import matplotlib.pyplot as plt 
 import seaborn as sns 
 import datetime 
+
+'''
+Note: The dataset used for this algorithm is completely a mock data,which has been prepared manually by myself.
+'''
+
 #IMPORT DATA 
 TRANSACTION_DATASET = pd.read_csv("C:\\Users\\e5603947\\OneDrive FIS\\Desktop\\MACHINE LEARNING Logistic Regression
 X = TRANSACTION_DATASET 
